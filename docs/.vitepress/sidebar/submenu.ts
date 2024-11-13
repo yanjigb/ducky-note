@@ -133,3 +133,51 @@ export const subMarketing = [
 export const subPrompts = [
     { text: 'Coding', link: '/categories/prompts/coding' },
 ]
+
+export const subYoutube = [
+    { text: 'Overview', link: '/categories/youtube/overview' },
+    { text: 'Cheatsheet', collapsed: true, items: [
+        { text: 'QnA', link: '/categories/youtube/cheatsheet/q&a' },
+    ] },
+    { text: 'Hooks', link: '/categories/youtube/hooks' },
+    { text: 'Resource', collapsed: true, items: [
+        { text: 'Type Content', collapsed: true, items: [
+            {text: 'AI', link: '/categories/youtube/resources/type-content/ai' },
+            {text: 'Funny', link: '/categories/youtube/resources/type-content/funny' },
+            {text: 'Girl', link: '/categories/youtube/resources/type-content/girl' },
+            {text: 'Farm', link: '/categories/youtube/resources/type-content/farm' },
+        ] },
+        {text: 'Image', link: '/categories/youtube/resources/image' },
+        {text: 'Video', link: '/categories/youtube/resources/video' },
+        {text: 'Music', link: '/categories/youtube/resources/music' },
+        {text: 'Store', link: '/categories/youtube/resources/store' },
+        {text: 'Sound Effect', link: '/categories/youtube/resources/sound-effect' },
+    ] },
+    { text: 'Tools', collapsed: true, items: [
+        {text: 'AI', collapsed: true, items: [
+            {text: 'Image', link: '/categories/youtube/tools/ai/image' },
+            {text: 'Video', link: '/categories/youtube/tools/ai/video' },
+            {text: 'Model 3D', link: '/categories/youtube/tools/ai/model-3d' },
+            {text: 'Voice', link: '/categories/youtube/tools/ai/voice' },
+        ] },
+        {text: 'SEO', collapsed: true, items: [
+            {text: 'Overview', link: '/categories/youtube/tools/seo/overview' },
+            {text: 'Rank thumbnail', link: '/categories/youtube/tools/seo/rank-thumbnail' },
+        ] },
+        {text: 'Automation', link: '/categories/youtube/tools/automation' },
+        {text: 'Edit video', link: '/categories/youtube/tools/edit-video' },
+        {text: 'Super tools', link: '/categories/youtube/tools/super-tools' },
+        {text: 'Tag', link: '/categories/youtube/tools/tag' },
+        {text: 'Transcript', link: '/categories/youtube/tools/transcript' },
+        {text: 'Calculate', link: '/categories/youtube/tools/calculate' },
+    ] },
+    {text: 'Tricks', collapsed: true, items: [
+        {text: 'Reupload', collapsed: true, items: [
+            {text: 'Clean video before upload', link: '/categories/youtube/tricks/reupload/clean-video-before-upload' },
+            {text: 'Tiktok', link: '/categories/youtube/tricks/reupload/tiktok' },
+            {text: 'Youtube', link: '/categories/youtube/tricks/reupload/youtube' },
+            {text: 'Instagram', link: '/categories/youtube/tricks/reupload/instagram' },
+            {text: 'Facebook', link: '/categories/youtube/tricks/reupload/facebook' },
+        ] },
+    ] },
+]
