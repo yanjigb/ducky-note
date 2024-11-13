@@ -121,6 +121,9 @@ export const subExtensions = [
 ]
 
 export const subDeveloper = [
+    { text: 'Sass', collapsed: true, items: [
+        { text: 'Overview', link: '/categories/developer/sass/overview' },
+    ] },
     { text: 'Component UI', link: '/categories/developer/component-ui' },
     { text: 'Animation UI', link: '/categories/developer/animation-ui' },
     { text: 'Developer Tools', link: '/categories/developer/developer-tools' },
@@ -141,6 +144,9 @@ export const subYoutube = [
     ] },
     { text: 'Hooks', link: '/categories/youtube/hooks' },
     { text: 'Resource', collapsed: true, items: [
+        { text: 'Planning', collapsed: true, items: [
+            {text: 'How to target', link: '/categories/youtube/resources/planning/how-to-target' },
+        ] },
         { text: 'Type Content', collapsed: true, items: [
             {text: 'AI', link: '/categories/youtube/resources/type-content/ai' },
             {text: 'Funny', link: '/categories/youtube/resources/type-content/funny' },
