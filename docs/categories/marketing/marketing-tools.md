@@ -2,6 +2,8 @@
 
 description: Marketing tools for promoting your business.
 
+<img src="https://i.pinimg.com/originals/15/16/ae/1516ae42d7e95d8d64d8d907561a3464.gif" alt="ducky note" style="width: 100%; object-fit: cover; aspect-ratio: 16/9;">
+
 ## **700+ Marketing Tools**
 
 Ignacio Velasquez has compiled a list of 700+ marketing tools.

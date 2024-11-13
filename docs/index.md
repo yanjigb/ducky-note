@@ -58,4 +58,9 @@ features:
     title: Developer
     link: /categories/developer/developer-tools
     linkText: View All
+
+  - icon: 🎥
+    title: Youtube
+    link: /categories/youtube/overview
+    linkText: View All
 ---
