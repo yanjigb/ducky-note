@@ -14,11 +14,6 @@ hero:
       link: /categories/overview
 
 features:
-  - icon: 📝
-    title: AI Writing Content
-    link: /categories/tools/ai/write-content
-    linkText: View All
-
   - icon: 💻
     title: Web Design
     link: /categories/design/web-design
@@ -36,12 +31,7 @@ features:
 
   - icon: 🤖
     title: AI Tools
-    link: /categories/tools/ai
-    linkText: View All
-
-  - icon: 🛠️
-    title: Tools
-    link: /categories/tools
+    link: /categories/ai/top-40-ai-2024
     linkText: View All
 
   - icon: 💸
@@ -59,4 +49,13 @@ features:
     link: /categories/prompts/coding
     linkText: View All
 
+  - icon: 🍊
+    title: Marketing
+    link: /categories/marketing/marketing-tools
+    linkText: View All
+
+  - icon: 💻
+    title: Developer
+    link: /categories/developer/developer-tools
+    linkText: View All
 ---
