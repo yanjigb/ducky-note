@@ -2,17 +2,16 @@
 layout: home
 
 hero:
-  name: Personal Document
-  text: Journey of Yanji
+  name: Ducky Note
   tagline: |
-    Simple note by Yanji
+    Simple note have multiple content about AI, Web Design, Ecommerce, Tools, etc...
   image:
-    src: /images/banner-logo.png
+    src: /images/favicon.png
     alt: VitePress
   actions:
     - theme: brand
       text: Explore Now
-      link: /categories/who-i-am
+      link: /categories/overview
 
 features:
   - icon: 📝
@@ -29,4 +28,35 @@ features:
     title: Website Templates
     link: /categories/design/website-template
     linkText: View All
+
+  - icon: 🕸️
+    title: Extensions
+    link: /categories/extensions/crawl
+    linkText: View All
+
+  - icon: 🤖
+    title: AI Tools
+    link: /categories/tools/ai
+    linkText: View All
+
+  - icon: 🛠️
+    title: Tools
+    link: /categories/tools
+    linkText: View All
+
+  - icon: 💸
+    title: Ecommerce
+    link: /categories/ecommerce
+    linkText: View All
+
+  - icon: 📚
+    title: Productivity
+    link: /categories/productivity
+    linkText: View All
+
+  - icon: 🎯
+    title: Prompts
+    link: /categories/prompts/coding
+    linkText: View All
+
 ---

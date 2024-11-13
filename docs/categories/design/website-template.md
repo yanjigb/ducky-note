@@ -212,3 +212,10 @@ Free website templates categorized for easy browsing.
 Postermywall is a platform that allows you to create and print posters, banners, and other promotional materials.
 
 [Visit Postermywall](https://www.postermywall.com/)
+
+
+## **UIdeck**
+
+UIdeck is a platform that offers a wide range of free and premium Bootstrap templates for various website types.
+
+[Visit UIdeck](https://uideck.com/bootstrap-templates)

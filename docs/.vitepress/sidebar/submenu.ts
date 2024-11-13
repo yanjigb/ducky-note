@@ -100,27 +100,36 @@ export const subEcommerce = [
 ]
 
 export const subAI = [
-    { text: 'Writing Content', link: '/categories/tools/ai/write-content' },
-    { text: 'Top 40 AI Tools 2024', link: '/categories/tools/ai/top-40-ai-2024' },
-    { text: 'Image', link: '/categories/tools/ai/image' },
+    { text: 'Top 40 AI Tools 2024', link: '/categories/ai/top-40-ai-2024' },
+    { text: 'Writing Content', link: '/categories/ai/write-content' },
+    { text: 'Image', link: '/categories/ai/image' },
 ]
 
 export const subDesign = [
     { text: 'Web Design', link: '/categories/design/web-design' },
     { text: 'Web Templates', link: '/categories/design/website-template' },
     { text: 'Design Stock', link: '/categories/design/design-stock' },
+    { text: 'Design Tools', link: '/categories/design/design-tools' },
 ]
 
 export const subProductivity = [
     { text: 'Productivity', link: '/categories/productivity/productivity' },
 ]
 
+export const subExtensions = [
+    { text: 'Crawl', link: '/categories/extensions/crawl' },
+]
+
+export const subDeveloper = [
+    { text: 'Component UI', link: '/categories/developer/component-ui' },
+    { text: 'Animation UI', link: '/categories/developer/animation-ui' },
+    { text: 'Developer Tools', link: '/categories/developer/developer-tools' },
+]
+
+export const subMarketing = [
+    { text: 'Marketing Tools', link: '/categories/marketing/marketing-tools' },
+]
+
 export const subPrompts = [
     { text: 'Coding', link: '/categories/prompts/coding' },
 ]
-
-export const subTools = [
-    { text: 'Marketing', link: '/categories/tools/marketing/marketing' },
-    { text: 'Design', link: '/categories/tools/design/design' },
-]
-

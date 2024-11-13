@@ -1,15 +1,17 @@
-import { subAI, subDesign, subEcommerce, subProductivity, subPrompts, subTools } from "./submenu";
+import { subAI, subDesign, subDeveloper, subEcommerce, subExtensions, subMarketing, subProductivity, subPrompts } from "./submenu";
 
 export default [
     {
         items: [
-            { text: '🌱 Who I Am', link: '/categories/who-i-am' },
+            { text: '🌱 Overview', link: '/categories/overview' },
             { text: '💸 Ecommerce', collapsed: true, items: subEcommerce },
+            { text: '👨‍💻 Developer', collapsed: true, items: subDeveloper },
             { text: '🤖 AI Tools', collapsed: true, items: subAI },
             { text: '🎨 Design', collapsed: true, items: subDesign },
             { text: '😶‍🌫️ Productivity', collapsed: true, items: subProductivity },
             { text: '✨ Prompts', collapsed: true, items: subPrompts },
-            { text: '🛠️ Tools', collapsed: true, items: subTools },
+            { text: '🍊 Marketing', collapsed: true, items: subMarketing },
+            { text: '🕸️ Extensions', collapsed: true, items: subExtensions },
         ]
     }
 ]

@@ -2,8 +2,12 @@ import { defineConfig } from 'vitepress'
 import sidebar from './sidebar'
 
 export default defineConfig({
-  title: "Yanji Document",
-  description: "yanji-document",
+  title: "Ducky Note",
+  description: "Simple note have multiple content",
+
+  head: [
+    ['link', { rel: 'icon', href: '/images/favicon.png' }],
+  ],
   
   themeConfig: {
     search: {
@@ -13,14 +17,14 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'Explore Now', link: '/categories/web-design' },
+      { text: '', link: '' },
     ],
 
     sidebar,
 
     footer: {
-      message: 'Yanji Document',
-      copyright: `Copyright © ${new Date().getFullYear()} by Yanji`
+      message: 'Ducky Note',
+      copyright: `Copyright © ${new Date().getFullYear()} by Ducky in Black`
     }
   }
 })
